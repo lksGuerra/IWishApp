@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dk11d0CTSZRugPbq6E17keALE1DV66miiVsIX8Mcjdmr9cm5LTxtTrzLsErRf+qRTSXb0mw3E7t12Nip8ujFYA==",
+  "dgSpecHash": "fBbFUsk5vFWIie1f+BCj9LpfiKgz0fP6vL7LH1SCpqzJ06fIhUGBRKcRl0q+MNoacAIXc5q6UN3kbcEprEvDeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\IWishApp\\src\\IWishApp.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\src\\IWishApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

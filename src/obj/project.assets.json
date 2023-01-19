@@ -4535,11 +4535,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\IWishApp\\src\\IWishApp.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\src\\IWishApp.csproj",
       "projectName": "IWishApp",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\IWishApp\\src\\IWishApp.csproj",
+      "projectPath": "C:\\Users\\Administrator\\source\\repos\\src\\IWishApp.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\IWishApp\\src\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\source\\repos\\src\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
